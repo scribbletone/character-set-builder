@@ -15,7 +15,7 @@
 - Optional page title
 - Can run through a list of fonts at the same time
 - Generates something like this:
-![alt text](https://raw.githubusercontent.com/scribbletone/character-set-builder/ISO-Regular-1.png)
+![alt text](https://raw.githubusercontent.com/scribbletone/character-set-builder/ISO-Regular.png)
 
 
 
