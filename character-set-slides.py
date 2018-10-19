@@ -1,6 +1,7 @@
 # Drawbot Character Set Slides
 
-fonts = [{
+fonts = [
+    {
         'title': 'ISO Regular',
         'fontPath': 'fonts/ISO-v0.4-Regular.otf'
     }, 
