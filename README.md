@@ -1,4 +1,4 @@
-Drawbot script for generating slides of the entire character set of a font
+[DrawBot](http://www.drawbot.com/index.html) script for generating slides of the entire character set of a font
 
 
 1. Open script in DrawBot
