@@ -1,5 +1,9 @@
 # Drawbot Character Set Slides
 
+#------------------ 
+# Customize this stuff
+#------------------ 
+
 fonts = [
     {
         'title': 'ISO Regular',
@@ -30,6 +34,10 @@ titleFontSize = 18
 titleTextColorR, titleTextColorG, titleTextColorB, titleTextColorA = 0,0,0,1
 titleX, titleY = docWidth/2, docHeight - 50
 
+
+#------------------ 
+# End Customization
+#------------------ 
 
 
 def setup():
